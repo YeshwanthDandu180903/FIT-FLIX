@@ -37,7 +37,9 @@ FIT-FLIX/
 ├── tests/                         # Unit tests
 ├── interfaces/                    # User interfaces
 ├── logs/                          # Application logs
-└── app.py                        # Main application entry point
+└── app.py
+└── environment.yml
+                         # Main application entry point
 ```
 
 ## 🛠️ Installation
