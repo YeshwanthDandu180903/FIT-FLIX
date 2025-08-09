@@ -147,22 +147,8 @@ Key configuration options in `.env`:
 4. Run tests: `pytest`
 5. Submit a pull request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🆘 Support
 
-For questions or issues, please:
-1. Check the FAQ in the knowledge base
-2. Search existing issues
-3. Create a new issue with detailed description
 
-## 🎯 Roadmap
 
-- [ ] Multi-language support
-- [ ] Advanced evaluation metrics
-- [ ] Custom fine-tuning pipeline
-- [ ] API documentation with Swagger
-- [ ] Docker containerization
-- [ ] Cloud deployment guides
